@@ -1,0 +1,26 @@
+	-authentication system .1
+		-register
+		-login
+		-logout
+	-Post CRUD with Permission . 2
+	-Like/unlike system with count 7
+		-check the number of like from the database
+		-change the color with jquery
+		-use the ajax to insert and delete from the database
+			then you can make the like button with number but this result will show you only when you refresh your browser so thus...
+		-
+-Comment System 9
+	-All post,own post,friend count .3 error in homework
+	-Popular Post, Author 8
+	-Friend List with Pagination system .4 
+		-pagination number by looping
+		-number of fri to show in a slide 
+		-previous and next button action
+		-to select fri
+	-Mailing System 5 .
+	-Searching System 6 .
+-Online User 10
+
+to save form data
+-enctype("multipart/formdata");
+-$photo=$_FILES['file name']['name to display the file name or size to display the file size'];
